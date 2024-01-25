@@ -1,7 +1,6 @@
 # Arsky-v2
 This Token Logger Has Multi Tools. Its is very easy To setup. This is the V2 Version of Arksy Multi Tools.
-
-
+-------------------------------------------------------------------------------------------------------------
 **Features**
 - After stealing process Inject Keylogger (Optional)
 
@@ -47,10 +46,8 @@ This Token Logger Has Multi Tools. Its is very easy To setup. This is the V2 Ver
 
 - Active Window Tittle Stealer
 
-- Process Stealer
-
-
-
+- Process Steale
+-----------------------------------------------------------------------
 **Builder Options**
 
 - Digital Signature
@@ -86,7 +83,7 @@ This Token Logger Has Multi Tools. Its is very easy To setup. This is the V2 Ver
 - All Browsers versions Supported
 
 **Todo**
-
+-----------------------------------------------------------------------------------------------------------
 - Yandex Stealer
 
 - Take Webcamshot
