@@ -99,6 +99,6 @@ This Token Logger Has Multi Tools. Its is very easy To setup. This is the V2 Ver
 - Twitch Session stealer & validator
 
 **Note's**
-
+----------------------------------------------------------------------------------------------------------
 **If there is something you want me to add to this project  you can contact me via Discord**
 
