@@ -1,0 +1,9 @@
+{
+    "WEBHOOK": {
+        "#PUT YOUR DISCORD WEBHOOK HERE": "True"
+    },
+    "CREDENTIALS": {
+        "USERNAME": "PUT A USERNAME TO MAKE AN ACCOUNT",
+        "PASSWORD": "PUT A PASSWORD TO MAKE AND ACCOUNT"
+    }
+}
